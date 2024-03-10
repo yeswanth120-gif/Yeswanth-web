@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E4DED0;
+}
+
+header {
+    background-color: #4C5166;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+}
+
+marquee {
+    font-size: 1.5em;
+}
+
+main {
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 5px #7F7F7F;
+}
+
+h4 {
+    color: #333;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family: Georgia;
+}
+
+p {
+    line-height: 1.6;
+    color: #555;
+}
+
+hr {
+    border: 1px solid #7F7F7F;
+}
+
+big {
+    color: #000;
+}
+
+footer {
+    background-color: #4C5166;
+    color: #FFF;
+}
